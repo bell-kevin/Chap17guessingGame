@@ -7,19 +7,19 @@ You must use anonymous inner classes for the action listener in this program. Th
 
 Here is a screenshot of the launch of the game:
 
-Ch 17 Guessing Game launch
+![y](https://github.com/bell-kevin/Chap17guessingGame/blob/main/yellow.PNG)
 
 The user enters their guess in the text field and presses the Enter button. If the guess is too low, the screen changes to show a red background color:
 
-Ch 17 Guessing Game low
+![r](https://github.com/bell-kevin/Chap17guessingGame/blob/main/red.PNG)
 
 The user enters another guess and presses the Enter button. If the guess is too high, the screen changes to show a blue background color:
 
-Ch 17 Guess Game high
+![c](https://github.com/bell-kevin/Chap17guessingGame/blob/main/cyan.PNG)
 
 If the user's guess is the correct value, the screen changes to show a green background color, and it displays how many tries the user took:
 
-Ch 17 Guessing Game correct
+![g](https://github.com/bell-kevin/Chap17guessingGame/blob/main/green.PNG)
 
 Clicking the Reset button results in the launch screen, and a new random number is generated.
 
